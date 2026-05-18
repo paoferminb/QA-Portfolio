@@ -69,8 +69,6 @@ With a background in **medicine**, I bring a strong analytical mindset, meticulo
 
 ---
 
----
-
 ## 🎓 Education & Certifications
 
 🏥 **Doctor of Medicine** — Universidad de Carabobo, Venezuela (2022)
