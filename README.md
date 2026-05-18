@@ -22,7 +22,7 @@ With a background in **medicine**, I bring a strong analytical mindset, meticulo
 - Close collaboration with cross-functional teams to shift quality left
 
 📧 **Email:** pferminboada2@gmail.com  
-🔗 **LinkedIn:** [Paola Fermin](https://www.linkedin.com/in/paola-fermin)
+🔗 **LinkedIn:** [Paola Fermin](https://www.linkedin.com/in/paola-fermin-418b62268/)
 
 ---
 
