@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm **Paola Fermin**, a QA Specialist with 3+ years of experience testing web applications in Agile/Scrum environments.
 
-With a background in **medicine**, I bring a strong analytical mindset, meticulous attention to detail, and the ability to navigate complex systems — skills that translate directly into precise, high-quality software testing. I've worked across industries including **healthcare, telemedicine, and e-commerce**, and I adapt quickly to any domain or product type.
+With a background in **medicine**, I bring a strong analytical mindset, meticulous attention to detail, and the ability to navigate complex systems, skills that translate directly into precise, high-quality software testing. I've worked across industries including **healthcare, telemedicine, and e-commerce**, and I adapt quickly to any domain or product type.
 
 🔒 *All content in this portfolio is fictional or generalized to respect client confidentiality (NDAs).*
 
@@ -94,13 +94,6 @@ With a background in **medicine**, I bring a strong analytical mindset, meticulo
 ## 🎓 Education & Certifications
 
 🏥 **Doctor of Medicine** — Universidad de Carabobo, Venezuela (2022)
-
-| Certification | Issuer |
-|---|---|
-| Manual Testing, API Testing & Databases | Bug Zero Academy |
-| QA Testing & QA Project Management | Instituto Web |
-| Scrum Fundamentals | CertiProf |
-| English B2 | EF Certificate |
 
 ---
 
