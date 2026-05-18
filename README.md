@@ -72,22 +72,10 @@ With a background in **medicine**, I bring a strong analytical mindset, meticulo
 ## 💼 Professional Experience
 
 ### Light-it · QA Specialist *(Jan 2026 – Present)*
-- Design and execute 30+ test cases per sprint, adapting coverage to risk and release scope
-- Deep validation using API testing, SQL queries, and AWS logs (CloudWatch, SQS)
-- Built and maintain Postman collections covering edge cases, boundary conditions, and error handling
-- Report high-quality bugs with logs, DB validation, and root cause hypothesis — reducing dev back-and-forth
-- Validate complex healthcare and HIPAA-compliant workflows
 
 ### Making Sense LLC · QA Jr Manual Tester *(Jan 2025 – Dec 2025)*
-- Identified and reported 200+ defects, preventing critical production issues
-- Contributed to ~80% reduction in risk exposure through improved test coverage
-- Designed and executed test cases using BDD (Gherkin) across multiple environments
-- Worked directly with clients to communicate risks and influence product decisions
 
 ### JustSEO · QA Manual Trainee *(Feb 2023 – Nov 2024)*
-- Designed test plans and executed functional and regression test cases across web applications
-- Reviewed Figma prototypes for UI consistency and design specification alignment
-- Participated in Agile ceremonies and collaborated with devs and PMs
 
 ---
 
