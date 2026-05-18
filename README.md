@@ -69,14 +69,6 @@ With a background in **medicine**, I bring a strong analytical mindset, meticulo
 
 ---
 
-## 💼 Professional Experience
-
-### Light-it · QA Specialist *(Jan 2026 – Present)*
-
-### Making Sense LLC · QA Jr Manual Tester *(Jan 2025 – Dec 2025)*
-
-### JustSEO · QA Manual Trainee *(Feb 2023 – Nov 2024)*
-
 ---
 
 ## 🎓 Education & Certifications
