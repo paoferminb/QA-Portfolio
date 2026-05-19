@@ -35,7 +35,7 @@ Test_Cases/
 | **Browsers** | Chrome 124, Firefox 125, Safari 17 |
 | **Cross-device** | BrowserStack (iOS 17, Android 14) |
 | **Accessibility** | NVDA screen reader, DevTools accessibility panel |
-| **Environment** | QA |
+| **Environment** | Staging |
 
 ## Coverage Summary
 
