@@ -30,9 +30,9 @@ Test_Cases/
 
 | Item | Detail |
 |---|---|
-| **Test management** | Testmo / TestRail |
-| **Bug tracking** | Jira |
+| **Test management** | Testmo / TestRail | Xray
+| **Bug tracking** | Jira | ClickUp
 | **Browsers** | Chrome 124, Firefox 125, Safari 17 |
 | **Cross-device** | BrowserStack (iOS 17, Android 14) |
 | **Accessibility** | NVDA screen reader, DevTools accessibility panel |
-| **Environment** | Staging |
+| **Environment** | QA |
