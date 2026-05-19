@@ -36,3 +36,17 @@ Test_Cases/
 | **Cross-device** | BrowserStack (iOS 17, Android 14) |
 | **Accessibility** | NVDA screen reader, DevTools accessibility panel |
 | **Environment** | QA |
+
+## Coverage Summary
+
+| Folder | TCs | Fails | Blocked |
+|---|---|---|---|
+| Authentication | 8 | 1 | 1 |
+| Product_Catalog | 7 | 1 | 0 |
+| Shopping_Cart | 7 | 1 | 1 |
+| Checkout | 8 | 1 | 0 |
+| User_Profile | 6 | 1 | 0 |
+| UI_Elements | 11 | 2 | 1 |
+| Accessibility | 8 | 3 | 1 |
+| **Total** | **55** | **10** | **4** |
+
