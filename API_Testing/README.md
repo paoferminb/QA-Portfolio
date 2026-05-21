@@ -8,26 +8,25 @@ This section documents manual API testing performed on fictional e-commerce and 
 
 ```text
 API_Testing/
-├── API_Test_Cases/         structured test cases organized by method
-├── DELETE/                 resource deletion and conflict handling
-├── GET/                    retrieve resources, filters, pagination
-├── PATCH/                  partial updates
-├── POST/                   resource creation and input validation
-└── PUT/                    full resource replacement
+└── API_Test_Cases/
+    ├── DELETE.md           resource deletion and conflict handling
+    ├── GET.md              retrieve resources, filters, pagination
+    ├── PATCH.md            partial updates
+    ├── POST.md             resource creation and input validation
+    └── PUT.md              full resource replacement
 ```
 
 ---
 
 ## 📂 Explore
 
-| Folder | Description |
+| File | Description |
 |---|---|
-| [API_Test_Cases](https://github.com/paoferminb/QA-Portfolio/tree/main/API_Testing/API_Test_Cases) | Structured test cases by method |
-| [DELETE](https://github.com/paoferminb/QA-Portfolio/tree/main/API_Testing/DELETE) | Deletion, conflict and permission scenarios |
-| [GET](https://github.com/paoferminb/QA-Portfolio/tree/main/API_Testing/GET) | List, filter, paginate, retrieve by ID |
-| [PATCH](https://github.com/paoferminb/QA-Portfolio/tree/main/API_Testing/PATCH) | Partial updates, field-level validation |
-| [POST](https://github.com/paoferminb/QA-Portfolio/tree/main/API_Testing/POST) | Create resources, validate required fields |
-| [PUT](https://github.com/paoferminb/QA-Portfolio/tree/main/API_Testing/PUT) | Full replacement, enforce all fields required |
+| [DELETE.md](https://github.com/paoferminb/QA-Portfolio/blob/main/API_Testing/API_Test_Cases/DELETE.md) | Deletion, conflict and permission scenarios |
+| [GET.md](https://github.com/paoferminb/QA-Portfolio/blob/main/API_Testing/API_Test_Cases/GET.md) | List, filter, paginate, retrieve by ID |
+| [PATCH.md](https://github.com/paoferminb/QA-Portfolio/blob/main/API_Testing/API_Test_Cases/PATCH.md) | Partial updates, field-level validation |
+| [POST.md](https://github.com/paoferminb/QA-Portfolio/blob/main/API_Testing/API_Test_Cases/POST.md) | Create resources, validate required fields |
+| [PUT.md](https://github.com/paoferminb/QA-Portfolio/blob/main/API_Testing/API_Test_Cases/PUT.md) | Full replacement, enforce all fields required |
 
 ---
 
