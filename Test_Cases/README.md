@@ -39,13 +39,15 @@ Test_Cases/
 
 ## Coverage Summary
 
+## Coverage Summary
+
 | Folder | TCs | Fails | Blocked |
 |---|---|---|---|
+| Accessibility | 8 | 3 | 1 |
 | Authentication | 8 | 1 | 1 |
+| Checkout | 8 | 1 | 0 |
 | Product_Catalog | 7 | 1 | 0 |
 | Shopping_Cart | 7 | 1 | 1 |
-| Checkout | 8 | 1 | 0 |
-| User_Profile | 6 | 1 | 0 |
 | UI_Elements | 11 | 2 | 1 |
-| Accessibility | 8 | 3 | 1 |
+| User_Profile | 6 | 1 | 0 |
 | **Total** | **55** | **10** | **4** |
