@@ -6,14 +6,13 @@ Functional test cases organized by platform and feature area.
 
 ```
 Test_Cases/
-└── Web/                  web platform test cases
+    ├── Accessibility/
     ├── Authentication/
+    ├── Checkout/
     ├── Product_Catalog/
     ├── Shopping_Cart/
-    ├── Checkout/
-    ├── User_Profile/
     ├── UI_Elements/
-    └── Accessibility/
+    └── User_Profile/
 ```
 
 ## Test Case Format
