@@ -22,12 +22,12 @@ API_Testing/
 
 | Folder | Description |
 |---|---|
-| [API_Test_Cases/](./API_Test_Cases) | Structured test cases by method |
-| [DELETE/](./DELETE) | Deletion, conflict and permission scenarios |
-| [GET/](./GET) | List, filter, paginate, retrieve by ID |
-| [PATCH/](./PATCH) | Partial updates, field-level validation |
-| [POST/](./POST) | Create resources, validate required fields |
-| [PUT/](./PUT) | Full replacement, enforce all fields required |
+| [API_Test_Cases/](../../tree/main/API_Testing/API_Test_Cases) | Structured test cases by method |
+| [DELETE/](../../tree/main/API_Testing/DELETE) | Deletion, conflict and permission scenarios |
+| [GET/](../../tree/main/API_Testing/GET) | List, filter, paginate, retrieve by ID |
+| [PATCH/](../../tree/main/API_Testing/PATCH) | Partial updates, field-level validation |
+| [POST/](../../tree/main/API_Testing/POST) | Create resources, validate required fields |
+| [PUT/](../../tree/main/API_Testing/PUT) | Full replacement, enforce all fields required |
 
 ---
 
