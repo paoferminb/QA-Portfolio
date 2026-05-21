@@ -23,11 +23,11 @@ API_Testing/
 | Folder | Description |
 |---|---|
 | [API_Test_Cases](https://github.com/paoferminb/QA-Portfolio/tree/main/API_Testing/API_Test_Cases) | Structured test cases by method |
-| [DELETE](https://github.com/paoferminb/QA-Portfolio/blob/main/API_Testing/DELETE) | Deletion, conflict and permission scenarios |
-| [GET](https://github.com/paoferminb/QA-Portfolio/blob/main/API_Testing/GET) | List, filter, paginate, retrieve by ID |
-| [PATCH](https://github.com/paoferminb/QA-Portfolio/blob/main/API_Testing/PATCH) | Partial updates, field-level validation |
-| [POST](https://github.com/paoferminb/QA-Portfolio/blob/main/API_Testing/POST) | Create resources, validate required fields |
-| [PUT](https://github.com/paoferminb/QA-Portfolio/blob/main/API_Testing/PUT) | Full replacement, enforce all fields required |
+| [DELETE](https://github.com/paoferminb/QA-Portfolio/tree/main/API_Testing/DELETE) | Deletion, conflict and permission scenarios |
+| [GET](https://github.com/paoferminb/QA-Portfolio/tree/main/API_Testing/GET) | List, filter, paginate, retrieve by ID |
+| [PATCH](https://github.com/paoferminb/QA-Portfolio/tree/main/API_Testing/PATCH) | Partial updates, field-level validation |
+| [POST](https://github.com/paoferminb/QA-Portfolio/tree/main/API_Testing/POST) | Create resources, validate required fields |
+| [PUT](https://github.com/paoferminb/QA-Portfolio/tree/main/API_Testing/PUT) | Full replacement, enforce all fields required |
 
 ---
 
@@ -68,4 +68,3 @@ API_Testing/
 | **Postman** | Build and execute requests, manage environments, write assertions |
 | **Swagger / OpenAPI** | Read endpoint documentation and validate contracts |
 | **TablePlus / DBeaver** | Confirm API side effects in the database via SQL |
-
