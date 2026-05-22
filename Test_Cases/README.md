@@ -12,6 +12,7 @@ Test_Cases/
 ├── Authentication.md       login, registration, session handling
 ├── Checkout.md             order placement, shipping, payment
 ├── Product_Catalog.md      search, filters, product detail
+├── Responsive.md           Responsive across devices
 ├── Shopping_Cart.md        add, remove, quantity updates
 ├── UI_Elements.md          buttons, forms, layout, notifications
 └── User_Profile.md         profile edits, password, addresses
@@ -27,6 +28,7 @@ Test_Cases/
 | [Authentication.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Test_Cases/Authentication.md) | Login, registration, session handling |
 | [Checkout.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Test_Cases/Checkout.md) | Order placement, shipping, payment |
 | [Product_Catalog.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Test_Cases/Product_Catalog.md) | Search, filters, product detail |
+| [Responsive.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Test_Cases/Responsive.md) | Responsive across devices|
 | [Shopping_Cart.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Test_Cases/Shopping_Cart.md) | Add, remove, quantity updates |
 | [UI_Elements.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Test_Cases/UI_Elements.md) | Buttons, forms, layout, notifications |
 | [User_Profile.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Test_Cases/User_Profile.md) | Profile edits, password, addresses |
