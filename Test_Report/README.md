@@ -18,8 +18,8 @@ Test_Reports/
 
 | File | Sprint | Recommendation |
 |---|---|---|
-| [Sprint_01_Test_Report.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Test_Reports/Sprint_01_Test_Report.md) | Sprint 01 — Pre-launch | ⚠️ Conditional GO |
-| [Sprint_02_Test_Report.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Test_Reports/Sprint_02_Test_Report.md) | Sprint 02 — Post-launch iteration | ✅ GO |
+| [Sprint_01_Test_Report.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Test_Report/Sprint_01_Test_Report.md) | Sprint 01 — Pre-launch | ⚠️ Conditional GO |
+| [Sprint_02_Test_Report.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Test_Report/Sprint_02_Test_Report.md) | Sprint 02 — Post-launch iteration | ✅ GO |
 
 ---
 
