@@ -21,11 +21,11 @@ Checklists/
 
 | File | Description |
 |---|---|
-| [API_Checklist.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Checklists/API_Checklist.md) | REST API validation — auth, status codes, response body |
-| [Accessibility_Checklist.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Checklists/Accessibility_Checklist.md) | WCAG 2.1 AA basics — keyboard, screen reader, contrast |
-| [Functional_Checklist.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Checklists/Functional_Checklist.md) | Core functionality — forms, navigation, error handling |
-| [Release_Checklist.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Checklists/Release_Checklist.md) | Pre-release gates — go/no-go criteria |
-| [UI_UX_Checklist.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Checklists/UI_UX_Checklist.md) | Visual consistency, interactions, and usability |
+| [API_Checklist.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Checklist/API_Checklist.md) | REST API validation — auth, status codes, response body |
+| [Accessibility_Checklist.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Checklist/Accessibility_Checklist.md) | WCAG 2.1 AA basics — keyboard, screen reader, contrast |
+| [Functional_Checklist.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Checklist/Functional_Checklist.md) | Core functionality — forms, navigation, error handling |
+| [Release_Checklist.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Checklist/Release_Checklist.md) | Pre-release gates — go/no-go criteria |
+| [UI_UX_Checklist.md](https://github.com/paoferminb/QA-Portfolio/blob/main/Checklist/UI_UX_Checklist.md) | Visual consistency, interactions, and usability |
 
 ---
 
