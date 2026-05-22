@@ -8,7 +8,6 @@ This section documents manual API testing performed on fictional e-commerce and 
 
 ```text
 API_Testing/
-└── API_Test_Cases/
     ├── DELETE.md           resource deletion and conflict handling
     ├── GET.md              retrieve resources, filters, pagination
     ├── PATCH.md            partial updates
