@@ -11,7 +11,6 @@
 
 ## Table of Contents
 
-- [🔄 Regression Test Plan — E-Commerce Platform](#-regression-test-plan--e-commerce-platform)
   - [1. Objective](#1-objective)
   - [2. Entry Criteria](#2-entry-criteria)
   - [3. Exit Criteria](#3-exit-criteria)
