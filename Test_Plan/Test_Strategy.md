@@ -11,7 +11,7 @@
 
 ## 1. Introduction & Scope
 
-The platform under test is a web-based e-commerce application that allows users to browse products, manage a cart, place orders, and manage their account. The QA scope covers the full purchase funnel — from product discovery to order confirmation — as well as account management and API integrations.
+The platform under test is a web-based e-commerce application that allows users to browse products, manage a cart, place orders, and manage their account. The QA scope covers the full purchase funnel from product discovery to order confirmation, as well as account management and API integrations.
 
 ### In Scope
 - Product catalog: search, filters, product detail pages
