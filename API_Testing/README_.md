@@ -64,5 +64,5 @@ API_Testing/
 | **AWS CloudWatch** | Validate async flows and server-side logs |
 | **DevTools (Network tab)** | Inspect requests and responses directly in the browser |
 | **Postman** | Build and execute requests, manage environments, write assertions |
-| **Swagger / OpenAPI** | Read endpoint documentation and validate contracts |
+| **Swagger / OpenAPI** | Read endpoint documentation and validate |
 | **TablePlus / DBeaver** | Confirm API side effects in the database via SQL |
