@@ -1,15 +1,11 @@
 # 🧪 Paola Fermin – QA Specialist Portfolio
-
 Hi there! 👋 I'm **Paola Fermin**, a QA Specialist with 3+ years of experience testing web applications in Agile/Scrum environments.
-
 With a background in **medicine**, I bring a strong analytical mindset, meticulous attention to detail, and the ability to navigate complex systems, skills that translate directly into precise, high-quality software testing. I've worked across industries including **e-commerce, healthcare, and telemedicine**, and I adapt quickly to any domain or product type.
-
 🔒 *All content in this portfolio is fictional or generalized to respect client confidentiality (NDAs).*
 
 ---
 
 ## 👤 About Me
-
 💼 **QA Specialist** — Manual Testing · API Validation · SQL · AWS Log Analysis  
 📍 Buenos Aires, Argentina (Remote)  
 🌐 **Languages:** English (B2) · Spanish (native)
@@ -27,7 +23,6 @@ With a background in **medicine**, I bring a strong analytical mindset, meticulo
 ---
 
 ## 🎓 Education & Certifications
-
 🏥 **Doctor of Medicine** — Universidad de Carabobo, Venezuela (2022)
 
 ---
@@ -37,11 +32,11 @@ With a background in **medicine**, I bring a strong analytical mindset, meticulo
 | Section | Link | Description |
 |---|---|---|
 | 🔌 API Testing | [API_Testing/](./API_Testing) | REST API test documentation — GET, POST, PUT, DELETE |
-| 📋 Bug Reports | [Bug_Reports/](./Bug_Reports) | Issue reports with logs, DB evidence, and root cause hypothesis |
-| ✅ Checklists | [Checklists/](./Checklists) | Release readiness and regression validation guides |
+| ✅ Checklists | [Checklist/](./Checklist) | Release readiness and regression validation guides |
 | 💾 SQL Queries | [SQL_Queries/](./SQL_Queries) | Queries for data validation, joins, and backend verification |
 | 🧪 Test Cases | [Test_Cases/](./Test_Cases) | Functional test cases with clear steps and expected outcomes |
-| 🗂️ Test Plans | [Test_Plans/](./Test_Plans) | Strategy documents outlining scope, approach, and risk areas |
+| 🗂️ Test Plans | [Test_Plan/](./Test_Plan) | Strategy documents outlining scope, approach, and risk areas |
+| 📊 Test Reports | [Test_Report/](./Test_Report) | Test execution results and summary reports |
 
 ---
 
@@ -51,17 +46,16 @@ With a background in **medicine**, I bring a strong analytical mindset, meticulo
 📂 QA-Portfolio/
 │
 ├── 🔌 API_Testing/       # Postman-style request documentation and validations
-├── 📋 Bug_Reports/       # Structured bug reports with logs and root cause analysis
-├── ✅ Checklists/        # Regression and release readiness checklists
+├── ✅ Checklist/         # Regression and release readiness checklists
 ├── 💾 SQL_Queries/       # SQL queries for data integrity and backend validation
 ├── 🧪 Test_Cases/        # Functional test cases with steps and expected results
-└── 🗂️ Test_Plans/        # QA strategy documents for full test cycles
+├── 🗂️ Test_Plan/         # QA strategy documents for full test cycles
+└── 📊 Test_Report/       # Test execution results and summary reports
 ```
 
 ---
 
 ## 🧾 License
-
 This repository is licensed under the [MIT License](./LICENSE).  
 Feel free to use these materials as reference with attribution.
 
