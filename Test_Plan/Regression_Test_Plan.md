@@ -9,6 +9,27 @@
 
 ---
 
+## Table of Contents
+
+- [🔄 Regression Test Plan — E-Commerce Platform](#-regression-test-plan--e-commerce-platform)
+  - [1. Objective](#1-objective)
+  - [2. Entry Criteria](#2-entry-criteria)
+  - [3. Exit Criteria](#3-exit-criteria)
+  - [4. Regression Scope](#4-regression-scope)
+    - [🔴 Critical Flows — Always Run](#-critical-flows--always-run)
+      - [AUTH — Authentication](#auth--authentication)
+      - [CART — Shopping Cart](#cart--shopping-cart)
+      - [CHK — Checkout](#chk--checkout)
+      - [API — Critical Endpoints](#api--critical-endpoints)
+    - [🟠 High Priority Flows — Run on Impacted Areas](#-high-priority-flows--run-on-impacted-areas)
+      - [PROD — Product Catalog](#prod--product-catalog)
+      - [PRF — User Profile](#prf--user-profile)
+      - [API — High Priority Endpoints](#api--high-priority-endpoints)
+    - [🟡 Spot Check — Run When Relevant Changes Detected](#-spot-check--run-when-relevant-changes-detected)
+  - [5. Test Execution](#5-test-execution)
+  - [6. Bug Severity Classification](#6-bug-severity-classification)
+  - [7. Regression Report Template](#7-regression-report-template)
+
 ## 1. Objective
 
 Ensure that new changes introduced during the sprint do not break previously validated functionality. Regression is executed before every release to Staging and Production.
