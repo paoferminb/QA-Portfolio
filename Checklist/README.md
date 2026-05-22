@@ -32,7 +32,8 @@ Checklists/
 ## 💡 How to use
 
 These checklists are meant to be used alongside test cases — not as a replacement. Use them during:
+
 - **Exploratory sessions** to avoid missing common areas
-- **Smoke runs** for quick pre-release validation
-- **New feature reviews** as an early sanity check
 - **Handoff from dev** to confirm basic readiness before formal testing begins
+- **New feature reviews** as an early sanity check
+- **Smoke runs** for quick pre-release validation
