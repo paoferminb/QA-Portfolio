@@ -16,6 +16,7 @@ Hi there! 👋 I'm **Paola Fermin**, a QA Analyst with 3+ years of experience te
 * Strong collaboration with developers, product teams, designers, and stakeholders to improve quality throughout the development lifecycle
 * Investigating issues beyond the UI layer using APIs, databases, logs, and browser DevTools
 * Translating complex business requirements into effective test coverage and actionable feedback
+* Beyond testing execution, I actively contribute to product improvements, usability feedback, and quality processes that help teams release with confidence.
 
 
 📧 **Email:** pferminboada2@gmail.com  
