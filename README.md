@@ -6,7 +6,6 @@ Hi there! 👋 I'm **Paola Fermin**, a QA Analyst with 3+ years of experience te
 ---
 
 ## 👤 About Me
-💼 **QA Specialist** — Manual Testing · API Validation · SQL · AWS Log Analysis  
 📍 Buenos Aires, Argentina (Remote)  
 🌐 **Languages:** English (B2) · Spanish (native)
 
