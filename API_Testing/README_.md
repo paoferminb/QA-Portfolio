@@ -4,6 +4,12 @@ This section documents manual API testing performed on fictional e-commerce and 
 
 ---
 
+> ⚠️ **Note:** The APIs tested here are **fake/mock APIs** — they were designed by me as realistic examples to showcase the types of test cases I would write and execute on a real API project. No real backend or third-party service is connected.
+
+It includes request examples organized by HTTP method and a dedicated folder with structured test cases.
+
+---
+
 ## 📁 Structure
 
 ```text
