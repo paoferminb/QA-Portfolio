@@ -1,6 +1,6 @@
 # 🧪 Paola Fermin – QA Specialist Portfolio
-Hi there! 👋 I'm **Paola Fermin**, a QA Specialist with 3+ years of experience testing web applications in Agile/Scrum environments.
-With a background in **medicine**, I bring a strong analytical mindset, meticulous attention to detail, and the ability to navigate complex systems, skills that translate directly into precise, high-quality software testing. I've worked across industries including **e-commerce, healthcare, and telemedicine**, and I adapt quickly to any domain or product type.
+Hi there! 👋 I'm **Paola Fermin**, a QA Analyst with 3+ years of experience testing web applications across healthcare, e-commerce, and SaaS products. Background as a Medical Doctor, bringing a strong analytical mindset, attention to detail, and deep understanding of complex workflows. Experienced in manual testing, API validation, SQL verification, AWS log analysis, and Agile collaboration.
+
 🔒 *All content in this portfolio is fictional or generalized to respect client confidentiality (NDAs).*
 
 ---
