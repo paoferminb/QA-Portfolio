@@ -9,12 +9,14 @@ Hi there! 👋 I'm **Paola Fermin**, a QA Analyst with 3+ years of experience te
 📍 Buenos Aires, Argentina (Remote)  
 🌐 **Languages:** English (B2) · Spanish (native)
 
-🧠 Key strengths:
-- Building Postman collections from scratch, including edge cases and error handling
-- Close collaboration with cross-functional teams to shift quality left
-- Deep validation using API testing, SQL queries, and AWS logs
-- Healthcare domain expertise (HIPAA compliance, telemedicine workflows)
-- Identifying root causes — not just symptoms
+## 🧠 Key Strengths
+* End-to-end validation through UI testing, API testing, SQL verification, and AWS log analysis
+* Building and maintaining Postman collections covering positive, negative, boundary, and edge-case scenarios
+* Exploratory testing focused on uncovering hidden risks, unexpected behaviors, and complex workflow issues
+* Strong collaboration with developers, product teams, designers, and stakeholders to improve quality throughout the development lifecycle
+* Investigating issues beyond the UI layer using APIs, databases, logs, and browser DevTools
+* Translating complex business requirements into effective test coverage and actionable feedback
+
 
 📧 **Email:** pferminboada2@gmail.com  
 🔗 **LinkedIn:** [Paola Fermin](https://www.linkedin.com/in/paola-fermin-418b62268/)
